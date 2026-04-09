@@ -20,9 +20,6 @@ Schema design for a multi-warehouse inventory management system.
 | `schema.sql` | Full DDL with tables, constraints, indexes |
 | `DESIGN_DECISIONS.md` | Design rationale and open questions |
 
-## ERD
-*(paste your ERD image or a Mermaid diagram here)*
-
 ## How to Run
 ```sql
 psql -U youruser -d yourdb -f schema.sql
